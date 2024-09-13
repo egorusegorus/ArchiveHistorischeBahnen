@@ -1,0 +1,14 @@
+/home/tomasz/C##/ArchiveHistorischeBahnen-master/ArchiveHistorischeBahnen/bin/Debug/net8.0/ArchiveHistorischeBahnen
+/home/tomasz/C##/ArchiveHistorischeBahnen-master/ArchiveHistorischeBahnen/bin/Debug/net8.0/ArchiveHistorischeBahnen.deps.json
+/home/tomasz/C##/ArchiveHistorischeBahnen-master/ArchiveHistorischeBahnen/bin/Debug/net8.0/ArchiveHistorischeBahnen.runtimeconfig.json
+/home/tomasz/C##/ArchiveHistorischeBahnen-master/ArchiveHistorischeBahnen/bin/Debug/net8.0/ArchiveHistorischeBahnen.dll
+/home/tomasz/C##/ArchiveHistorischeBahnen-master/ArchiveHistorischeBahnen/bin/Debug/net8.0/ArchiveHistorischeBahnen.pdb
+/home/tomasz/C##/ArchiveHistorischeBahnen-master/ArchiveHistorischeBahnen/obj/Debug/net8.0/ArchiveHistorischeBahnen.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomasz/C##/ArchiveHistorischeBahnen-master/ArchiveHistorischeBahnen/obj/Debug/net8.0/ArchiveHistorischeBahnen.AssemblyInfoInputs.cache
+/home/tomasz/C##/ArchiveHistorischeBahnen-master/ArchiveHistorischeBahnen/obj/Debug/net8.0/ArchiveHistorischeBahnen.AssemblyInfo.cs
+/home/tomasz/C##/ArchiveHistorischeBahnen-master/ArchiveHistorischeBahnen/obj/Debug/net8.0/ArchiveHistorischeBahnen.csproj.CoreCompileInputs.cache
+/home/tomasz/C##/ArchiveHistorischeBahnen-master/ArchiveHistorischeBahnen/obj/Debug/net8.0/ArchiveHistorischeBahnen.dll
+/home/tomasz/C##/ArchiveHistorischeBahnen-master/ArchiveHistorischeBahnen/obj/Debug/net8.0/refint/ArchiveHistorischeBahnen.dll
+/home/tomasz/C##/ArchiveHistorischeBahnen-master/ArchiveHistorischeBahnen/obj/Debug/net8.0/ArchiveHistorischeBahnen.pdb
+/home/tomasz/C##/ArchiveHistorischeBahnen-master/ArchiveHistorischeBahnen/obj/Debug/net8.0/ArchiveHistorischeBahnen.genruntimeconfig.cache
+/home/tomasz/C##/ArchiveHistorischeBahnen-master/ArchiveHistorischeBahnen/obj/Debug/net8.0/ref/ArchiveHistorischeBahnen.dll
